@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ReviewFlixAdmin.Models.Actor>
+
+@{
+    ViewData["Title"] = "Actors";
+}
+
+<div class="header">
+    <h1>Actors</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+</div>
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th style="width: 40%;">@Html.DisplayNameFor(model => model.Name)</th>
+            <th style="width: 40%;">@Html.DisplayNameFor(model => model.Surname)</th>
+            <th style="width: 20%;" class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody id="actorTable">
+        @foreach (var item in Model)
+        {
+            <tr id="actor-@item.ActorId">
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Surname)</td>
+                <td class="text-center">
+                    <a asp-action="Edit" asp-route-id="@item.ActorId" class="btn btn-secondary">Edit</a>
+                    <button class="btn btn-danger delete-button" data-id="@item.ActorId">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Dashboard</a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".delete-button").click(function () {
+            var actorId = $(this).data("id");
+            
+                $.ajax({
+                    url: '/Actors/Delete/' + actorId,
+                    type: 'POST',
+                    data: {
+                        __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                    },
+                    success: function () {
+                        $("#actor-" + actorId).remove(); 
+                        
+                    },
+                    error: function () {
+                        alert("Error occurred while deleting the actor.");
+                    }
+                });
+            
+        });
+    });
+</script>

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ReviewFlixAdmin.Models.Film>
+
+@{
+    ViewData["Title"] = "Films";
+}
+
+<div class="header">
+    <h1>Films</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+</div>
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.Genre)</th>
+            <th>@Html.DisplayNameFor(model => model.Year)</th>
+            <th>@Html.DisplayNameFor(model => model.PosterUrl)</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody id="filmTable">
+        @foreach (var item in Model)
+        {
+            <tr id="film-@item.Id">
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.Genre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Year)</td>
+                <td>@Html.DisplayFor(modelItem => item.PosterUrl)</td>
+                <td class="text-center">
+                    <div class="action-buttons">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                        <button class="btn btn-danger delete-button" data-id="@item.Id">Delete</button>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <a asp-controller="Finances" asp-action="Index" class="btn btn-secondary">Show Finances</a>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Dashboard</a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".delete-button").click(function () {
+            var filmId = $(this).data("id");
+
+            $.ajax({
+                url: '/Films/Delete/' + filmId,
+                type: 'POST',
+                data: {
+                    __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                },
+                success: function () {
+                    $("#film-" + filmId).remove();
+                },
+                error: function () {
+                    alert("Error occurred while deleting the film.");
+                }
+            });
+        });
+    });
+</script>

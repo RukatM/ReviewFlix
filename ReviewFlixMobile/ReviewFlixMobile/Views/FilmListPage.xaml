@@ -1,0 +1,49 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:ReviewFlixMobile.ViewModels"
+             x:Class="ReviewFlixMobile.Views.FilmListPage"
+            
+             
+             >
+
+
+    <StackLayout >
+
+
+        <Image Source="logo.png" 
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" 
+               HeightRequest="200" 
+                />
+
+
+
+        <Label Text="Select movie" FontSize="24" FontAttributes="Bold"  HorizontalTextAlignment="Center" TextColor="#FFD6D6D6"/>
+        <CollectionView ItemsSource="{Binding Films}">
+
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Horizontal" />
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    
+                        <StackLayout>
+
+                        <Frame Padding="0" CornerRadius="20" IsClippedToBounds="True" Margin="50,10"  HasShadow="False">
+                            <Image Source="{Binding PosterUrl}" 
+                                    HeightRequest="450" 
+                                    Aspect="AspectFit">
+                                <Image.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="OnFilmTapped" CommandParameter="{Binding}" />
+                                </Image.GestureRecognizers>
+                            </Image>
+                        </Frame>
+
+                    </StackLayout>
+                    
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

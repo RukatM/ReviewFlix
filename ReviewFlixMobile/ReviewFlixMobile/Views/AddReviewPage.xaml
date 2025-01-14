@@ -1,0 +1,21 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:ReviewFlixMobile.ViewModels"
+             x:Class="ReviewFlixMobile.Views.AddReviewPage"
+             Title="Add Review">
+
+	<StackLayout Padding="10">
+		
+
+		<Entry Placeholder="Title" Text="{Binding ReviewTitle}" FontSize="16" Margin="0,10" />
+		<Editor Placeholder="Write your review here..." Text="{Binding ReviewContent}" FontSize="16" HeightRequest="100" Margin="0,10" />
+
+		<Label Text="Rating:" FontSize="16" Margin="0,10" />
+		<Picker Title="Select Rating"
+                ItemsSource="{Binding Ratings}"
+                SelectedItem="{Binding SelectedRating}"
+                FontSize="16" Margin="0,10" />
+
+		<Button Text="Submit" Command="{Binding SubmitReviewCommand}" FontSize="18" HorizontalOptions="Center" Margin="0,20" />
+	</StackLayout>
+</ContentPage>

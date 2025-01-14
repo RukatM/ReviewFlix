@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\finances\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\finances\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\finances\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\finances\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\finances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\finances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\models\\finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\models\\finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\controllers\\financescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\controllers\\financescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|c:\\users\\rukat\\downloads\\l7\\l7\\reviewflixadmin\\reviewflixadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE2052F-08AD-4A53-8749-D9DC3155485F}|ReviewFlixAdmin\\ReviewFlixAdmin.csproj|solutionrelative:reviewflixadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Finances\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Create.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Finances\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:22:55.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Finances\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Edit.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Finances\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:22:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Finance.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Models\\Finance.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Models\\Finance.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Models\\Finance.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Models\\Finance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:00:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancesController.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\FinancesController.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Controllers\\FinancesController.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\FinancesController.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Controllers\\FinancesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:59:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Finances\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Finances\\Index.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Finances\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:42:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Films\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Delete.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Films\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:27:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5gAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:20:19.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Films\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Index.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Films\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T00:34:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:00:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Models\\Film.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:12:51.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\appsettings.json",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\appsettings.json",
+              "RelativeToolTip": "ReviewFlixAdmin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T01:10:57.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Actors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T00:09:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Actors\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T00:09:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Films\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Create.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Films\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:44:24.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Actors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:25:03.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Reviews\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Reviews\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:11:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Actors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Edit.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Actors\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:16:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FilmsController.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\FilmsController.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Controllers\\FilmsController.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Controllers\\FilmsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv4gAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:00:45.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Films\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Films\\Edit.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Films\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:49:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ReviewFlixAdmin\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T23:33:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwJsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:17:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Actors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Actors\\Create.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Actors\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:40:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Reviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Reviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Reviews\\Index.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Reviews\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T00:34:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\appsettings.Development.json",
+              "RelativeToolTip": "ReviewFlixAdmin\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T01:11:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T23:08:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ReviewFlixAdmin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T23:06:00.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "ReviewFlixAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\rukat\\Downloads\\L7\\L7\\ReviewFlixAdmin\\ReviewFlixAdmin\\Program.cs",
+              "RelativeToolTip": "ReviewFlixAdmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:59:56.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

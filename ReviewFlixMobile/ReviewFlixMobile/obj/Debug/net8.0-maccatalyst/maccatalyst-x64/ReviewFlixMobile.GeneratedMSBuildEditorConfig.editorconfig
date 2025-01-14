@@ -1,0 +1,70 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ReviewFlixMobile
+build_property.ProjectDir = C:\Users\rukat\Downloads\L7\L7\ReviewFlixMobile\ReviewFlixMobile\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/Views/AddReviewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.Views.AddReviewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddReviewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddReviewPage.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/Views/FilmDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.Views.FilmDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\FilmDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\FilmDetailsPage.xaml
+
+[C:/Users/rukat/Downloads/L7/L7/ReviewFlixMobile/ReviewFlixMobile/Views/FilmListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReviewFlixMobile.Views.FilmListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\FilmListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\FilmListPage.xaml

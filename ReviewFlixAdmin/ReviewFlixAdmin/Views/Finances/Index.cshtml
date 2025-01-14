@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Finance";
+    var finances = ViewBag.Finances as IEnumerable<dynamic>;
+}
+
+<div class="header">
+    <h1>Finance</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+</div>
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th style="width: 40%;">Film Title</th>
+            <th style="width: 20%;">Budget</th>
+            <th style="width: 20%;">Revenue</th>
+            <th style="width: 20%;" class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in finances)
+        {
+            <tr>
+                <td>@item.FilmTitle</td> <!-- Wyświetlenie tytułu filmu -->
+                <td>@item.Budget</td>
+                <td>@item.Revenue</td>
+                <td class="text-center">
+
+                    <div class="action-buttons">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                   
+                    <button class="btn btn-danger delete-button" data-id="@item.Id">Delete</button>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Dashboard</a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".delete-button").click(function () {
+            var financeId = $(this).data("id");
+            if (confirm("Are you sure you want to delete this finance record?")) {
+                $.ajax({
+                    url: '/Finance/Delete/' + financeId,
+                    type: 'POST',
+                    data: {
+                        __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                    },
+                    success: function () {
+                        location.reload(); // Odświeżenie tabeli po usunięciu
+                    },
+                    error: function () {
+                        alert("Error occurred while deleting the record.");
+                    }
+                });
+            }
+        });
+    });
+</script>

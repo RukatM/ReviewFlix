@@ -1,0 +1,91 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReviewFlixMobile.Views.FilmDetailsPage">
+
+    <ScrollView>
+        <StackLayout >
+            <Label Text="{Binding SelectedFilm.Title}" FontSize="24" FontAttributes="Bold"  HorizontalTextAlignment="Center"/>
+            <Frame Padding="0" CornerRadius="20" IsClippedToBounds="True" Margin="55,10"  HasShadow="False">
+                <Image Source="{Binding SelectedFilm.PosterUrl}" 
+            HeightRequest="450" 
+            Aspect="AspectFit">
+                    
+                </Image>
+            </Frame>
+            
+            <Label Text="{Binding SelectedFilm.Description}" FontSize="14" HorizontalTextAlignment="Center"  Margin="60,10"/>
+
+
+            <Grid Padding="10" ColumnSpacing="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+
+                    <ColumnDefinition Width="*" />
+
+                </Grid.ColumnDefinitions>
+
+
+                <StackLayout Grid.Column="0" Margin="50,40,0,0">
+                    <Label Text="Cast:" FontSize="18" FontAttributes="Bold" Margin="0,0,0,5" />
+                    <CollectionView ItemsSource="{Binding Cast}" ItemsLayout="VerticalGrid">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout Padding="0" Margin="0,0,0,5">
+                                    <Label>
+                                        <Label.Text>
+                                            <MultiBinding StringFormat="{}{0} {1}">
+                                                <Binding Path="Name" />
+                                                <Binding Path="Surname" />
+                                            </MultiBinding>
+                                        </Label.Text>
+                                    </Label>
+                                </StackLayout>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </StackLayout>
+
+
+                <StackLayout Grid.Column="1" Margin="10,40,0,0">
+                    <Label Text="Finances:" FontSize="18" FontAttributes="Bold" Margin="0,0,0,5" />
+                    <Label Text="{Binding Finance.Budget, StringFormat='Budget: ${0}'}" FontSize="14" />
+                    <Label Text="{Binding Finance.Revenue, StringFormat='Revenue: ${0}'}" FontSize="14" />
+                </StackLayout>
+            </Grid>
+
+
+
+
+
+            <Button Text="Add Review" 
+             FontSize="18" 
+             Margin="20"
+             HorizontalOptions="Center" 
+             VerticalOptions="Center" 
+             Clicked="OnAddReviewClicked"
+            BackgroundColor="black"
+            BorderColor="White"
+            BorderWidth="0.5"
+                    TextColor="White"
+             />    
+            <CollectionView ItemsSource="{Binding Reviews}" Margin="0,10,0,0">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="0" CornerRadius="15" IsClippedToBounds="True" Margin="60,10">
+                        <StackLayout Padding="10" BackgroundColor="#7E5CAD" >
+                            <Label Text="{Binding Title}" FontSize="16" FontAttributes="Bold" />
+                            <Label Text="{Binding Content}" FontSize="14" />
+                            <Label Text="{Binding Rating}" FontSize="12"  />
+                        </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        
+           
+        
+
+        </StackLayout>
+    </ScrollView>
+    
+</ContentPage>
